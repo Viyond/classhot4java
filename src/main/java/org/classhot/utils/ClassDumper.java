@@ -1,4 +1,4 @@
-package org.hot2hot.utils;
+package org.classhot.utils;
 
 import java.io.File;
 import java.io.IOException;

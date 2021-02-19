@@ -1,4 +1,4 @@
-package org.hot2hot.classfile;
+package org.classhot.classfile;
 
 import java.io.File;
 import java.io.FileInputStream;
@@ -6,14 +6,14 @@ import java.io.IOException;
 import java.nio.ByteBuffer;
 import java.nio.channels.FileChannel;
 
-import org.hot2hot.utils.PackageFromBytes;
+import org.classhot.utils.PackageFromBytes;
 
 public class ReadClassFile {
 
 	public static void main(String[] args) throws IOException {
 		FileInputStream fs = null;
 		FileChannel channel = null;
-		File file = new File("/Users/jiaojianfeng/Documents/sourceCode/openSource/hot2hot/target/classes/org/hot2hot/AgentMain.class");
+		File file = new File("/Users/jiaojianfeng/Documents/sourceCode/openSource/classhot/target/classes/org/classhot/AgentMain.class");
 		try {
 			fs = new FileInputStream(file);
 			channel = fs.getChannel();

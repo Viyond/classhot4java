@@ -1,8 +1,8 @@
-package org.hot2hot.utils;
+package org.classhot.utils;
 
 import java.security.PrivilegedAction;
 
-import org.hot2hot.Hot;
+import org.classhot.Hot;
 
 public class ASMClassLoader extends ClassLoader {
 

@@ -1,4 +1,4 @@
-package org.hot2hot;
+package org.classhot;
 
 public class Hot {
 

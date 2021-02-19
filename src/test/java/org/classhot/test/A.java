@@ -1,4 +1,4 @@
-package org.hot2hot.test;
+package org.classhot.test;
 
 public class A {
 
@@ -20,7 +20,7 @@ public class A {
 		
 		for(int i=0; i<10; i++) {
 			System.out.println(this.age + ":" + this.name);
-			Thread.sleep(1000);
+			Thread.sleep(500);
 		}
 		System.out.println("--------------------");
 	}

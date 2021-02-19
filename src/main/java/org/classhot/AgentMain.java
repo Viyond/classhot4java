@@ -1,4 +1,4 @@
-package org.hot2hot;
+package org.classhot;
 
 import java.io.BufferedInputStream;
 import java.io.IOException;
@@ -11,8 +11,8 @@ import java.util.concurrent.ScheduledThreadPoolExecutor;
 import java.util.concurrent.TimeUnit;
 
 import org.apache.commons.io.IOUtils;
-import org.hot2hot.jdk.ClassLoaderAdapter;
-import org.hot2hot.task.FileScanTask;
+import org.classhot.jdk.ClassLoaderAdapter;
+import org.classhot.task.FileScanTask;
 import org.objectweb.asm.ClassReader;
 import org.objectweb.asm.ClassVisitor;
 import org.objectweb.asm.ClassWriter;

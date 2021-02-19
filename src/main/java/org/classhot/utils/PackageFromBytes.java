@@ -1,4 +1,4 @@
-package org.hot2hot.utils;
+package org.classhot.utils;
 
 import org.apache.commons.lang.StringUtils;
 

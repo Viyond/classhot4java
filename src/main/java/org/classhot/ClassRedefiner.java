@@ -1,4 +1,4 @@
-package org.hot2hot;
+package org.classhot;
 
 import java.lang.instrument.ClassDefinition;
 import java.lang.instrument.Instrumentation;

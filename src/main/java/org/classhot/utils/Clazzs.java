@@ -1,4 +1,4 @@
-package org.hot2hot.utils;
+package org.classhot.utils;
 
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;

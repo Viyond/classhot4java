@@ -1,5 +1,5 @@
 
-package org.hot2hot.utils;
+package org.classhot.utils;
 
 /**
  * 

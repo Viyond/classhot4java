@@ -1,8 +1,8 @@
-package org.hot2hot.jdk;
+package org.classhot.jdk;
 
 import java.security.ProtectionDomain;
 
-import org.hot2hot.utils.Clazzs;
+import org.classhot.utils.Clazzs;
 import org.objectweb.asm.ClassVisitor;
 import org.objectweb.asm.Label;
 import org.objectweb.asm.MethodVisitor;

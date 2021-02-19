@@ -1,4 +1,4 @@
-package org.hot2hot.test;
+package org.classhot.test;
 
 public interface A_interface {
 
